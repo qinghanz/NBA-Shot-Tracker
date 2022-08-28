@@ -11,10 +11,10 @@ For example, here is the plotted result from Jeremy Lin's 2011-12 "Linsanity" se
 
 To try the program for yourself:
 
-1- Clone this repository: https://github.com/qinghanz/NBA-Shot-Tracker
-2- Using the IDE of your choice, create a virtual environment and activate it by running python3 -m venv /path/to/virtual/environment
-3- run "pip3 install matplotlib" to install plotting library
-4- run "pip3 install nba_api" to install nba package
-5- run "main.py" with your selected player/season and enjoy!
+1- Clone this repository: https://github.com/qinghanz/NBA-Shot-Tracker <br />
+2- Using the IDE of your choice, create a virtual environment and activate it by running python3 -m venv /path/to/virtual/environment <br />
+3- run "pip3 install matplotlib" to install plotting library <br />
+4- run "pip3 install nba_api" to install nba package <br />
+5- run "main.py" with your selected player/season and enjoy! <br />
 
 Special thanks to https://github.com/swar for great documentation of the NBA API.
